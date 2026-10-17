@@ -231,6 +231,11 @@
     /* cosmetic */
     @media (max-width: 640px) { .profile-badge { font-size: .65rem; padding: .25rem .6rem; } }
     @media (prefers-reduced-motion: reduce) { .reveal, .card-hover, .social-icon, .offcanvas { transition: none !important; animation: none !important; } }
+    /* Portfolio tabs */
+    .pf-tab { color: var(--muted); border: 1px solid rgba(148,163,184,0.22); background: transparent; cursor: pointer; }
+    .pf-tab:hover { color: var(--text); }
+    .pf-tab[aria-selected="true"] { background: linear-gradient(90deg,var(--accent-a),var(--accent-b)); color: #fff; border-color: transparent; }
+    .pf-tab:focus-visible { outline: 2px solid var(--accent-a); outline-offset: 2px; }
   </style>
 </head>
 
@@ -248,6 +253,7 @@
         <div class="hidden md:flex items-center space-x-6 lg:space-x-8">
           <a href="#about" class="nav-underline text-sm lg:text-base">Tentang</a>
           <a href="#experience" class="nav-underline text-sm lg:text-base">Pengalaman</a>
+          <a href="#portfolio" class="nav-underline text-sm lg:text-base">Portfolio</a>
           <a href="#contact" class="nav-underline text-sm lg:text-base">Kontak</a>
           <a href="https://inovixats.web.id" target="_blank" rel="noopener noreferrer" class="nav-underline text-sm lg:text-base">Profil Perusahaan</a>
 
@@ -280,6 +286,7 @@
       <nav class="flex flex-col gap-4">
         <a href="#about" class="off-link text-[color:var(--text)] text-lg font-medium">Tentang</a>
         <a href="#experience" class="off-link text-[color:var(--text)] text-lg font-medium">Pengalaman</a>
+        <a href="#portfolio" class="off-link text-[color:var(--text)] text-lg font-medium">Portfolio</a>
         <a href="#contact" class="off-link text-[color:var(--text)] text-lg font-medium">Kontak</a>
         <a href="https://inovixats.web.id" target="_blank" rel="noopener noreferrer" class="on-link text-[color:var(--text)] text-lg font-medium">Profil Perusahaan</a>
       </nav>
@@ -572,6 +579,155 @@
     </div>
   </section>
 
+  <!-- PORTFOLIO - PROYEK & PORTOFOLIO (BARU) -->
+  <section id="portfolio" class="py-16" aria-labelledby="portfolio-title">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-10 reveal" data-reveal>
+        <h2 id="portfolio-title" class="text-3xl font-bold mb-4">Portfolio &amp; Proyek</h2>
+        <div class="w-20 h-1 mx-auto" style="background:linear-gradient(90deg,var(--accent-a),var(--accent-b));"></div>
+        <p class="text-[color:var(--muted)] mt-6 max-w-2xl mx-auto">Produk, startup, dan website yang pernah saya kembangkan, baik di bawah PT Inovixa Technologies Solution maupun untuk klien.</p>
+      </div>
+
+      <div class="flex justify-center mb-10 reveal" data-reveal>
+        <div role="tablist" aria-label="Kategori portofolio" class="inline-flex max-w-full gap-2 p-1 rounded-full overflow-x-auto shadow-sm" style="background:var(--card);">
+          <button type="button" role="tab" id="pf-tab-startup" aria-controls="pf-panel-startup" aria-selected="true" tabindex="0" data-portfolio-tab="startup" class="pf-tab whitespace-nowrap px-5 py-2 rounded-full text-sm font-medium transition">
+            <i class="fas fa-rocket mr-2"></i>Startup &amp; Produk Perusahaan
+          </button>
+          <button type="button" role="tab" id="pf-tab-client" aria-controls="pf-panel-client" aria-selected="false" tabindex="-1" data-portfolio-tab="client" class="pf-tab whitespace-nowrap px-5 py-2 rounded-full text-sm font-medium transition">
+            <i class="fas fa-briefcase mr-2"></i>Proyek Client
+          </button>
+        </div>
+      </div>
+
+      <div id="pf-panel-startup" role="tabpanel" aria-labelledby="pf-tab-startup" data-portfolio-panel="startup">
+        <p class="text-[color:var(--muted)] text-center mb-8">Produk dan usaha rintisan yang dikembangkan di bawah PT Inovixa Technologies Solution.</p>
+        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <div class="p-6 rounded-xl card card-hover flex flex-col" style="background:var(--card);">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-semibold px-2 py-1 rounded" style="background:rgba(57,197,179,0.08);color:var(--accent-a)">01</span>
+              <i class="fas fa-plug text-xl text-[color:var(--accent-b)]"></i>
+            </div>
+            <h4 class="font-bold text-lg mb-1">Flowix</h4>
+            <p class="text-[color:var(--accent-a)] text-sm font-medium mb-3">PPOB Infrastructure &amp; API Provider</p>
+            <p class="text-[color:var(--muted)] text-sm mb-5 flex-1">Infrastruktur PPOB, akun premium, dan layanan suntik media sosial dengan fokus pada penyediaan API. Terintegrasi dengan Digiflazz, VIPayment, Tripay, dan Tokopay.</p>
+            <div>
+              <p class="text-xs font-semibold uppercase tracking-wide text-[color:var(--muted)] mb-2">Terintegrasi dengan</p>
+              <div class="flex flex-wrap gap-2 text-[color:var(--muted)]"><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Digiflazz</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">VIPayment</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Tripay</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Tokopay</span></div>
+            </div>
+          </div>
+          <div class="p-6 rounded-xl card card-hover flex flex-col" style="background:var(--card);">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-semibold px-2 py-1 rounded" style="background:rgba(57,197,179,0.08);color:var(--accent-a)">02</span>
+              <i class="fas fa-robot text-xl text-[color:var(--accent-b)]"></i>
+            </div>
+            <h4 class="font-bold text-lg mb-1">WuttyAI</h4>
+            <p class="text-[color:var(--accent-a)] text-sm font-medium mb-3">AI Chatbot &amp; Document Analysis</p>
+            <p class="text-[color:var(--muted)] text-sm mb-5 flex-1">Chatbot AI berbasis Groq yang mendukung analisis gambar, pembacaan dokumen dan file ZIP, pemahaman kode pemrograman, bantuan coding, serta kebutuhan AI umum.</p>
+            <div>
+              <p class="text-xs font-semibold uppercase tracking-wide text-[color:var(--muted)] mb-2">Kemampuan utama</p>
+              <div class="flex flex-wrap gap-2 text-[color:var(--muted)]"><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Analisis Gambar</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Dokumen</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">File ZIP</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Kode Pemrograman</span></div>
+            </div>
+          </div>
+          <div class="p-6 rounded-xl card card-hover flex flex-col" style="background:var(--card);">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-semibold px-2 py-1 rounded" style="background:rgba(57,197,179,0.08);color:var(--accent-a)">03</span>
+              <i class="fas fa-store text-xl text-[color:var(--accent-b)]"></i>
+            </div>
+            <h4 class="font-bold text-lg mb-1">UniShop</h4>
+            <p class="text-[color:var(--accent-a)] text-sm font-medium mb-3">Digital Products &amp; Reseller Platform</p>
+            <p class="text-[color:var(--muted)] text-sm mb-5 flex-1">Platform penjualan produk PPOB, akun premium, dan jasa joki dengan sistem reseller yang dapat menghasilkan website secara otomatis. Terintegrasi dengan Digiflazz, VIPayment, Tokopay, Duitku, dan Flowix.</p>
+            <div>
+              <p class="text-xs font-semibold uppercase tracking-wide text-[color:var(--muted)] mb-2">Terintegrasi dengan</p>
+              <div class="flex flex-wrap gap-2 text-[color:var(--muted)]"><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Digiflazz</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">VIPayment</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Tokopay</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Duitku</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Flowix</span></div>
+            </div>
+          </div>
+          <div class="p-6 rounded-xl card card-hover flex flex-col" style="background:var(--card);">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-semibold px-2 py-1 rounded" style="background:rgba(57,197,179,0.08);color:var(--accent-a)">04</span>
+              <i class="fas fa-key text-xl text-[color:var(--accent-b)]"></i>
+            </div>
+            <h4 class="font-bold text-lg mb-1">Vyrlo</h4>
+            <p class="text-[color:var(--accent-a)] text-sm font-medium mb-3">Digital Products &amp; Premium Account Marketplace</p>
+            <p class="text-[color:var(--muted)] text-sm mb-5 flex-1">Platform penyedia akun premium dan layanan suntik media sosial, dengan Flowix sebagai pemasok produk sekaligus penyedia payment gateway.</p>
+            <div>
+              <p class="text-xs font-semibold uppercase tracking-wide text-[color:var(--muted)] mb-2">Terintegrasi dengan</p>
+              <div class="flex flex-wrap gap-2 text-[color:var(--muted)]"><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Flowix</span></div>
+            </div>
+          </div>
+          <div class="p-6 rounded-xl card card-hover flex flex-col" style="background:var(--card);">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-semibold px-2 py-1 rounded" style="background:rgba(57,197,179,0.08);color:var(--accent-a)">05</span>
+              <i class="fas fa-paper-plane text-xl text-[color:var(--accent-b)]"></i>
+            </div>
+            <h4 class="font-bold text-lg mb-1">WhatsApp &amp; Telegram Top-Up Bots</h4>
+            <p class="text-[color:var(--accent-a)] text-sm font-medium mb-3">Automated Digital Products &amp; Transaction Systems</p>
+            <p class="text-[color:var(--muted)] text-sm mb-5 flex-1">Bot WhatsApp dan Telegram untuk transaksi PPOB dan akun premium, terintegrasi dengan Digiflazz dan VIPayment sebagai supplier, serta Tokopay dan Flowix sebagai payment gateway atau infrastruktur pembayaran.</p>
+            <div>
+              <p class="text-xs font-semibold uppercase tracking-wide text-[color:var(--muted)] mb-2">Terintegrasi dengan</p>
+              <div class="flex flex-wrap gap-2 text-[color:var(--muted)]"><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Digiflazz</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">VIPayment</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Tokopay</span><span class="px-3 py-1 rounded-full text-xs" style="background:rgba(148,163,184,0.04)">Flowix</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="pf-panel-client" role="tabpanel" aria-labelledby="pf-tab-client" data-portfolio-panel="client" class="hidden">
+        <p class="text-[color:var(--muted)] text-center mb-8">Website dan solusi digital yang kami kembangkan untuk klien.</p>
+        <div class="grid gap-6 sm:grid-cols-2">
+          <div class="p-6 rounded-xl card card-hover flex flex-col" style="background:var(--card);">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-semibold px-2 py-1 rounded" style="background:rgba(124,92,255,0.08);color:var(--accent-b)">01</span>
+              <i class="fas fa-globe text-xl text-[color:var(--accent-b)]"></i>
+            </div>
+            <h4 class="font-bold text-lg mb-1">Neonika.id</h4>
+            <p class="text-[color:var(--accent-a)] text-sm font-medium mb-3">Top-Up &amp; Digital Products Website</p>
+            <p class="text-[color:var(--muted)] text-sm mb-5 flex-1">Website top-up dan penjualan produk digital untuk kebutuhan transaksi pelanggan.</p>
+            <div class="mt-auto">
+              <a href="https://neonika.id" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 text-sm font-medium text-[color:var(--accent-a)] hover:opacity-80 transition"><i class="fas fa-arrow-up-right-from-square"></i>neonika.id</a>
+            </div>
+          </div>
+          <div class="p-6 rounded-xl card card-hover flex flex-col" style="background:var(--card);">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-semibold px-2 py-1 rounded" style="background:rgba(124,92,255,0.08);color:var(--accent-b)">02</span>
+              <i class="fas fa-globe text-xl text-[color:var(--accent-b)]"></i>
+            </div>
+            <h4 class="font-bold text-lg mb-1">ArchShop</h4>
+            <p class="text-[color:var(--accent-a)] text-sm font-medium mb-3">Digital Products Website</p>
+            <p class="text-[color:var(--muted)] text-sm mb-5 flex-1">Website penjualan produk digital.</p>
+            <div class="mt-auto">
+              <a href="https://archshop.web.id" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 text-sm font-medium text-[color:var(--accent-a)] hover:opacity-80 transition"><i class="fas fa-arrow-up-right-from-square"></i>archshop.web.id</a>
+            </div>
+          </div>
+          <div class="p-6 rounded-xl card card-hover flex flex-col" style="background:var(--card);">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-semibold px-2 py-1 rounded" style="background:rgba(124,92,255,0.08);color:var(--accent-b)">03</span>
+              <i class="fas fa-globe text-xl text-[color:var(--accent-b)]"></i>
+            </div>
+            <h4 class="font-bold text-lg mb-1">PXT Nation</h4>
+            <p class="text-[color:var(--accent-a)] text-sm font-medium mb-3">Website Development</p>
+            <p class="text-[color:var(--muted)] text-sm mb-5 flex-1">Pengembangan website untuk kebutuhan platform PXT Nation.</p>
+            <div class="mt-auto">
+              <a href="https://pxtnation.web.id" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 text-sm font-medium text-[color:var(--accent-a)] hover:opacity-80 transition"><i class="fas fa-arrow-up-right-from-square"></i>pxtnation.web.id</a>
+            </div>
+          </div>
+          <div class="p-6 rounded-xl card card-hover flex flex-col" style="background:var(--card);">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-semibold px-2 py-1 rounded" style="background:rgba(124,92,255,0.08);color:var(--accent-b)">04</span>
+              <i class="fas fa-building text-xl text-[color:var(--accent-b)]"></i>
+            </div>
+            <h4 class="font-bold text-lg mb-1">PT Jabar Pratama Sagara</h4>
+            <p class="text-[color:var(--accent-a)] text-sm font-medium mb-3">Corporate Website &amp; Company Profile</p>
+            <p class="text-[color:var(--muted)] text-sm mb-5 flex-1">Pengembangan website company profile untuk memperkenalkan perusahaan, layanan, dan identitas bisnis secara profesional.</p>
+            <div class="mt-auto">
+              <a href="https://jabarpratama.com" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 text-sm font-medium text-[color:var(--accent-a)] hover:opacity-80 transition"><i class="fas fa-arrow-up-right-from-square"></i>jabarpratama.com</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <p class="text-center text-sm text-[color:var(--muted)] mt-10">Portofolio akan terus diperbarui seiring bertambahnya proyek.</p>
+    </div>
+  </section>
+
   <!-- CONTACT -->
   <section id="contact" class="py-16" aria-labelledby="contact-title">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -686,7 +842,7 @@
     // footer year: selalu tahun berjalan
     (function setFooterYear(){ const el = document.getElementById('footer-year'); if (el) el.textContent = new Date().getFullYear(); })();
 
-    function downloadCV(lang) { const fileName = lang === 'id' ? 'https://danijoest.vercel.app/media/dani-joest-founder-pt-inovixa-technologies-solution-cv-2026.pdf' : 'https://danijoest.vercel.app/media/CV Dani Joest (Lang-EN).pdf'; window.location.href = fileName; }
+    function downloadCV(lang) { const fileName = lang === 'id' ? 'https://danijoest.vercel.app/media/dani-joest-pt-inovixa-cv.pdf' : 'https://danijoest.vercel.app/media/CV Dani Joest (Lang-EN).pdf'; window.location.href = fileName; }
 
     // Offcanvas controls
     const mobileMenuButton = document.getElementById('mobile-menu-button');
@@ -776,6 +932,31 @@
         }
       });
     });
+
+
+    // portfolio tabs (Startup & Produk Perusahaan / Proyek Client)
+    (function(){
+      const tabs = Array.from(document.querySelectorAll('[data-portfolio-tab]'));
+      const panels = Array.from(document.querySelectorAll('[data-portfolio-panel]'));
+      function activate(id, focus){
+        tabs.forEach(t => {
+          const on = t.dataset.portfolioTab === id;
+          t.setAttribute('aria-selected', on ? 'true' : 'false');
+          t.tabIndex = on ? 0 : -1;
+          if(on && focus) t.focus();
+        });
+        panels.forEach(p => p.classList.toggle('hidden', p.dataset.portfolioPanel !== id));
+      }
+      tabs.forEach((t, idx) => {
+        t.addEventListener('click', () => activate(t.dataset.portfolioTab, false));
+        t.addEventListener('keydown', (e) => {
+          if(e.key !== 'ArrowRight' && e.key !== 'ArrowLeft') return;
+          e.preventDefault();
+          const step = e.key === 'ArrowRight' ? 1 : tabs.length - 1;
+          activate(tabs[(idx + step) % tabs.length].dataset.portfolioTab, true);
+        });
+      });
+    })();
 
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeOffcanvas(); });
   </script>
