@@ -376,7 +376,7 @@
             <div class="p-6 rounded-xl card-hover card">
               <div class="flex justify-between items-start mb-2"><h4 class="font-bold">Founder & Director</h4><span class="text-xs px-2 py-1 rounded" style="background:rgba(57,197,179,0.08);color:var(--accent-a)">Saat ini</span></div>
               <p class="text-[color:var(--accent-a)] font-medium mb-1">PT Inovixa Technologies Solution · Purnawaktu</p>
-              <p class="text-[color:var(--muted)] text-xs mb-3">Jul 2025 - Saat ini · 1 thn 4 bln · Bogor, Jawa Barat · Jarak jauh</p>
+              <p class="text-[color:var(--muted)] text-xs mb-3">Jul 2025 - Saat ini · <span id="dur-inovixa">1 thn 4 bln</span> · Bogor, Jawa Barat · Jarak jauh</p>
               <p class="text-[color:var(--muted)] text-sm mb-3">Bertanggung jawab atas arah strategis perusahaan, pengembangan bisnis, serta pengawasan pengembangan produk dan layanan digital.</p>
               <ul class="text-[color:var(--muted)] text-sm list-disc list-inside space-y-1">
                 <li>Mengoordinasikan tim merancang & mengembangkan solusi: web & Android, integrasi API, sistem otomatisasi WA & Telegram</li>
@@ -387,7 +387,7 @@
             <div class="p-6 rounded-xl card-hover card">
               <div class="flex justify-between items-start mb-2"><h4 class="font-bold">Software Engineer & Full-Stack Developer</h4><span class="text-xs px-2 py-1 rounded" style="background:rgba(100,116,139,0.06);color:var(--muted)">2022-2024</span></div>
               <p class="text-[color:var(--accent-a)] font-medium mb-1">Freelance Programmer · Musiman</p>
-              <p class="text-[color:var(--muted)] text-xs mb-3">Jan 2022 - Nov 2024 · 2 thn 11 bln · Bogor · Jarak jauh</p>
+              <p class="text-[color:var(--muted)] text-xs mb-3">Jan 2022 - Nov 2024 · <span id="dur-freelance">2 thn 11 bln</span> · Bogor · Jarak jauh</p>
               <p class="text-[color:var(--muted)] text-sm mb-3">Menerapkan pengetahuan dari pembelajaran mandiri untuk mengembangkan solusi perangkat lunak bagi kebutuhan individu maupun bisnis.</p>
               <ul class="text-[color:var(--muted)] text-sm list-disc list-inside space-y-1">
                 <li>Proyek: bot WhatsApp & Telegram, website, CMS, sistem CRUD, backend & integrasi API</li>
@@ -397,6 +397,34 @@
             </div>
           </div>
         </div>
+
+<script>
+// 1 fungsi untuk semua durasi
+(function(){
+  function hitung(startStr, endStr){
+    const [sy, sm] = startStr.split('-').map(Number);
+    const s = new Date(sy, sm - 1, 1);
+    let e;
+    if(endStr === 'now'){
+      e = new Date();
+    } else {
+      const [ey, em] = endStr.split('-').map(Number);
+      e = new Date(ey, em - 1, 1);
+    }
+    let total = (e.getFullYear() - s.getFullYear()) * 12 + (e.getMonth() - s.getMonth());
+    if(total < 0) total = 0;
+    const y = Math.floor(total / 12);
+    const m = total % 12;
+    if(y > 0 && m > 0) return `${y} thn ${m} bln`;
+    if(y > 0) return `${y} thn`;
+    return `${m} bln`;
+  }
+  const a = document.getElementById('dur-inovixa');
+  if(a) a.textContent = hitung('2025-07', 'now');
+  const b = document.getElementById('dur-freelance');
+  if(b) b.textContent = hitung('2022-01', '2024-11');
+})();
+</script>
         <div class="reveal" data-reveal>
           <h3 class="text-xl font-semibold mb-6 flex items-center"><span class="p-2 rounded-full mr-3" style="background:rgba(124,92,255,0.06);color:var(--accent-b)"><i class="fas fa-graduation-cap"></i></span>Pendidikan</h3>
           <div class="space-y-6">
