@@ -251,19 +251,19 @@
           <a href="#contact" class="nav-underline text-sm lg:text-base">Kontak</a>
           <a href="https://inovixats.web.id" target="_blank" rel="noopener noreferrer" class="nav-underline text-sm lg:text-base">Profil Perusahaan</a>
 
-          <button id="theme-toggle" class="p-2 rounded-xl bg-[color:var(--card)] shadow-sm flex items-center gap-2" aria-label="Ganti tema">
+          <button id="theme-toggle" class="p-3 rounded-full bg-[color:var(--card)] shadow-sm flex items-center gap-2" aria-label="Ganti tema">
             <i id="theme-icon" class="fas fa-sun text-yellow-400"></i>
             <span id="theme-text" class="text-sm hidden md:inline">Terang</span>
           </button>
         </div>
 
-        <div class="md:hidden flex items-center gap-2">
+        <div class="md:hidden flex items-center gap-3">
           <!-- mobile theme toggle moved next to hamburger -->
-          <button id="mobile-theme-button" class="p-2 rounded-xl bg-[color:var(--card)] shadow-sm" aria-label="Ganti tema (seluler)">
+          <button id="mobile-theme-button" class="p-3 rounded-full bg-[color:var(--card)] shadow-sm" aria-label="Ganti tema (seluler)">
             <i id="mobile-theme-icon" class="fas fa-sun text-yellow-400"></i>
           </button>
 
-          <button id="mobile-menu-button" aria-controls="mobile-offcanvas" aria-expanded="false" class="p-2 rounded-xl bg-[color:var(--card)] shadow-sm" aria-label="Buka menu">
+          <button id="mobile-menu-button" aria-controls="mobile-offcanvas" aria-expanded="false" class="p-3 rounded-full bg-[color:var(--card)] shadow-sm" aria-label="Buka menu">
             <i class="fas fa-bars"></i>
           </button>
         </div>
@@ -273,8 +273,10 @@
 
   <!-- Offcanvas mobile nav (right) -->
   <aside id="mobile-offcanvas" class="offcanvas" aria-hidden="true" role="dialog" aria-label="Menu navigasi seluler">
-    <button class="close-btn p-2 rounded-md" aria-label="Tutup menu"><i class="fas fa-times"></i></button>
-    <div class="mt-6">
+    <button class="close-btn p-3 rounded-full text-[22px]" aria-label="Tutup menu">
+  <i class="fas fa-times"></i>
+</button>
+    <div class="mt-10">
       <nav class="flex flex-col gap-4">
         <a href="#about" class="off-link text-[color:var(--text)] text-lg font-medium">Tentang</a>
         <a href="#experience" class="off-link text-[color:var(--text)] text-lg font-medium">Pengalaman</a>
@@ -399,7 +401,6 @@
         </div>
 
 <script>
-// 1 fungsi untuk semua durasi
 (function(){
   function hitung(startStr, endStr){
     const [sy, sm] = startStr.split('-').map(Number);
