@@ -1,0 +1,824 @@
+---
+
+title: "The Journey — Dani Joest"
+description: "Perjalanan Dani Joest (Dani Ramdani), dari tumbuh dalam keterbatasan, belajar pemrograman secara mandiri, melewati masa sulit, hingga merintis PT Inovixa Technologies Solution."
+
+The Journey
+
+Every journey has a beginning. This is mine.
+
+Dani Joest · Personal Archive
+
+Aku tumbuh di sebuah kampung dalam keluarga dengan kondisi ekonomi yang sangat terbatas. Rumah yang kami tempati memiliki dinding berlubang, atap yang sering bocor ketika hujan, dan pernah mengalami kerusakan akibat angin kencang. Kami memasak menggunakan kayu bakar, sementara fasilitas rumah tangga yang bagi sebagian orang merupakan hal biasa tidak selalu tersedia dalam keadaan baik.
+
+Aku tinggal bersama orang tua dan kakakku di rumah kakek, berbagi ruang dengan keluarga besar. Aku tidak memiliki kamar sendiri dan tidur bersama orang tua hingga sekitar usia 14 tahun. Setelah itu, aku mulai tidur terpisah, terkadang di bagian tengah rumah kakek dan terkadang di luar rumah.
+
+Ayah bekerja sebagai kuli bangunan. Ibu mengurus rumah tangga, tetapi ketika keadaan mendesak, ia juga berusaha mencari penghasilan tambahan. Mereka menjalani kehidupan yang tidak mudah, tetapi terus berusaha memenuhi kebutuhan keluarga.
+
+Sejak kecil, aku terbiasa melihat keterbatasan dari dekat. Membeli kuota internet saja terkadang membutuhkan waktu beberapa hari untuk mengumpulkan uangnya. Ketika mulai bekerja, aku pernah kehilangan perangkat yang menjadi satu-satunya alat untuk belajar dan mencari penghasilan. Ada pula masa ketika kecemasan membuatku kesulitan menjalani kehidupan sehari-hari.
+
+Aku tidak pernah merencanakan untuk menjadi programmer, apalagi mendirikan perusahaan teknologi. Semuanya bermula dari sebuah ponsel sederhana, rasa penasaran terhadap bot WhatsApp, dan keinginan untuk memahami sesuatu yang sebelumnya tidak kukenal.
+
+Perlahan, rasa penasaran itu berkembang menjadi keterampilan. Keterampilan tersebut membawaku ke pekerjaan freelance, berbagai proyek digital, hingga akhirnya menjadi salah satu fondasi untuk mendirikan PT Inovixa Technologies Solution.
+
+Hari ini, aku masih merintis. Perusahaan yang kubangun masih membutuhkan banyak pengembangan, dan kehidupan yang kuharapkan belum sepenuhnya tercapai.
+
+Karena itu, tulisan ini bukan cerita tentang seseorang yang telah sampai di puncak keberhasilan. Ini adalah catatan tentang titik awal, proses belajar, kehilangan, pertolongan yang pernah kuterima, dan usaha yang masih kulanjutkan.
+
+---
+
+01. The Beginning
+
+Tumbuh dengan keterbatasan
+
+Aku tumbuh di sebuah kampung dalam keluarga yang secara ekonomi berada dalam kondisi sangat terbatas.
+
+Kami tinggal di rumah kakek bersama keluarga besar. Rumah tersebut memiliki empat kamar yang digunakan bersama oleh banyak anggota keluarga. Keluargaku sendiri—ayah, ibu, kakak, dan aku—menempati satu kamar.
+
+Dinding rumah berlubang di beberapa bagian, atap sering bocor ketika hujan, dan rumah itu pernah mengalami kerusakan akibat angin kencang. Kami memasak menggunakan kayu bakar. Televisi yang pernah ada di rumah akhirnya rusak, sedangkan kamar mandi digunakan bersama oleh keluarga besar.
+
+Aku tidak memiliki kamar sendiri. Hingga sekitar usia 14 tahun, aku masih tidur bersama orang tua. Setelah itu, aku mulai tidur terpisah, terkadang di bagian tengah rumah kakek dan terkadang di luar rumah.
+
+Ayah bekerja sebagai kuli bangunan. Ibu lebih banyak mengurus rumah tangga, tetapi ketika uang tidak mencukupi, ia berusaha mencari pekerjaan tambahan.
+
+Aku pernah ikut ibu mencuci piring di rumah makan, mencuci pakaian, dan membantu pekerjaan rumah tangga di tempat orang lain. Ketika pekerjaan sulit didapatkan dan kebutuhan semakin mendesak, ada masa ketika ibu juga mengajakku pergi ke daerah lain untuk meminta bantuan berupa uang atau makanan.
+
+Saat itu, aku masih terlalu kecil untuk memahami seluruh keadaan keluarga. Aku hanya tahu bahwa kami membutuhkan uang untuk memenuhi kebutuhan sehari-hari.
+
+Aku ingat pernah merasa senang ketika ibu membelikanku mainan setelah mendapatkan uang. Aku belum memahami sepenuhnya bagaimana uang itu diperoleh atau seberapa berat usaha yang harus dilakukan untuk mendapatkannya.
+
+Ada pula kenangan ketika ibu berusaha menutupi perjalanan yang dilakukannya demi memenuhi kebutuhan keluarga. Aku yang masih kecil justru mengatakan hal yang sebenarnya, sehingga ibu mendapat teguran dari ayah.
+
+Kenangan itu melekat dalam ingatanku. Ketika mengingatnya sekarang, aku lebih memahami bahwa saat itu ibu sedang berusaha menghadapi keadaan yang tidak mudah, sementara aku belum cukup dewasa untuk memahami tekanan yang ia tanggung.
+
+Aku melihat sendiri bagaimana ayah bekerja keras dan bagaimana ibu berusaha mencari jalan ketika keadaan mendesak. Mereka tidak selalu memiliki pilihan yang mudah, tetapi terus berusaha agar keluarga tetap bertahan.
+
+Aku menghormati perjuangan keduanya. Dari mereka, aku belajar bahwa tanggung jawab sering kali berarti tetap berusaha meskipun keadaan tidak berjalan sesuai harapan.
+
+Aku juga tumbuh dengan perhatian dari nenek dan beberapa paman serta bibi yang baik kepadaku. Nenek memiliki tempat tersendiri dalam ingatanku. Ia termasuk orang yang sering menunjukkan kepedulian ketika aku masih kecil.
+
+Sayangnya, aku tidak sempat bertemu dengannya lagi setelah dewasa. Ada bagian dari perjalanan hidupku yang ingin kuceritakan kepadanya, tetapi kesempatan itu tidak datang.
+
+Kenangan tentang nenek menjadi pengingat bahwa kebaikan seseorang bisa terus hidup dalam ingatan, bahkan ketika kita tidak lagi memiliki kesempatan untuk bertemu dengannya.
+
+Hubungan keluarga tidak selalu berjalan mudah. Ada persoalan di dalam rumah yang memberi tekanan emosional dan memengaruhi suasana kehidupan sehari-hari. Aku memilih tidak menguraikan semuanya di sini karena setiap orang memiliki privasi yang perlu dihormati.
+
+Yang bisa kuceritakan adalah bahwa sejak kecil aku mulai memahami betapa pentingnya memiliki lingkungan yang aman, saling menghargai, dan tidak menambah beban satu sama lain.
+
+Sebelum mengenal coding
+
+Setelah lulus sekolah dasar, aku tidak melanjutkan pendidikan ke SMP karena keterbatasan ekonomi keluarga.
+
+Aku pernah bekerja sebagai kuli bersama teman-teman sekampung. Saat itu, aku belum mengenal dunia pemrograman dan belum memiliki gambaran jelas tentang pekerjaan yang ingin kutekuni.
+
+Kehidupanku berjalan sederhana. Kebutuhan sehari-hari harus dipenuhi, sedangkan keinginan-keinginan kecil terkadang harus kutunda.
+
+Salah satu keinginanku saat itu adalah memiliki ponsel seperti orang lain.
+
+Aku pernah menangis kepada ibu karena ingin mempunyai ponsel sendiri. Bagiku, memiliki ponsel bukan hanya soal mengikuti orang lain, tetapi juga kesempatan untuk menikmati sesuatu yang belum kupunya.
+
+Akhirnya, dengan uang dari ayah dan bantuan ibu dalam menyisihkan serta mengumpulkannya, aku berhasil mendapatkan ponsel pertamaku, Redmi 4A.
+
+Ponsel itu menjadi awal dari perubahan yang tidak pernah kubayangkan sebelumnya.
+
+Pada awalnya, aku menggunakannya untuk bermain game, menonton YouTube, dan menikmati hiburan. Aku belum memiliki keterampilan yang bisa menghasilkan uang sendiri.
+
+Kebutuhan internet pun masih bergantung pada orang tua. Untuk membeli paket internet seharga sekitar Rp12.000–Rp14.000, aku terkadang harus menabung selama beberapa hari. Paket yang biasa kubeli dapat bertahan sekitar tiga sampai lima hari, bergantung pada pemakaian.
+
+Aku berusaha menghemat kuota dan memanfaatkan waktu penggunaan internet sebaik mungkin.
+
+Pada usia sekitar 12–17 tahun, aku terkadang merasa menjadi beban ketika harus meminta uang kepada orang tua untuk kuota atau jajan kecil. Untuk membeli makanan ringan seharga beberapa ribu rupiah saja, aku perlu mempertimbangkan keadaan terlebih dahulu.
+
+Aku tidak menceritakan bagian ini untuk menyalahkan diriku yang masih kecil atau meminta orang lain merasa iba. Aku hanya ingin jujur tentang titik awal kehidupanku sebelum menemukan sesuatu yang perlahan mengubah arah perjalananku.
+
+---
+
+02. Discovering Programming
+
+Dari jual beli akun game ke bot WhatsApp
+
+Sebelum mengenal coding, aku mulai mencoba berbagai hal di internet. Aku pernah membuka jasa spam atau virus text WhatsApp dan melakukan jual beli akun game.
+
+Aku mencoba mencari peluang dari lingkungan pertemanan dan grup yang kuikuti. Namun, usaha-usaha awal tersebut belum menjadi sesuatu yang bisa kuandalkan.
+
+Di salah satu grup jual beli akun game, aku mengenal seseorang yang mengajariku cara memasang dan menjalankan script bot WhatsApp.
+
+Awalnya, aku hanya mengikuti instruksi. Aku belum benar-benar memahami bagaimana program tersebut bekerja.
+
+Setelah berhasil menjalankan bot, aku mulai mengutak-atik script yang ada. Aku mencoba mengubah bagian tertentu, memperbaiki kesalahan, dan mencari cara agar program berjalan sesuai keinginanku.
+
+Banyak percobaan berakhir dengan error. Aku belum memahami konsep pemrograman secara utuh, tetapi justru dari situlah rasa penasaranku tumbuh.
+
+Aku mulai mencari penjelasan melalui YouTube, membaca kode yang ditemukan di internet, dan mencoba memahami bagaimana satu bagian program terhubung dengan bagian lainnya.
+
+Tanpa benar-benar menyadarinya, aku mulai belajar coding.
+
+Aku tidak memulainya melalui pendidikan formal, kursus berbayar, atau komputer yang memadai. Aku memulainya melalui sebuah bot WhatsApp yang membuatku penasaran.
+
+Ketika coding mulai mengubah keadaan
+
+Setelah mulai memahami bot WhatsApp, aku mencoba membuat dan menawarkan bot sendiri. Aku mempromosikan script melalui YouTube dan mulai mendapatkan penghasilan dari pekerjaan tersebut.
+
+Alhamdulillah, perlahan aku mulai bisa membeli kuota internet menggunakan uang hasil kerjaku sendiri.
+
+Dulu, aku harus menabung selama beberapa hari hanya untuk membeli kuota. Setelah mulai mendapatkan penghasilan dari coding, aku semakin sering mampu membiayai kebutuhan internet sendiri, membeli perlengkapan kecil untuk bekerja, dan sesekali memberikan sedikit uang kepada orang tua.
+
+Nominalnya belum besar, tetapi perubahan itu berarti bagiku.
+
+Aku mulai melihat bahwa sesuatu yang kupelajari melalui ponsel sederhana ternyata bisa menjadi keterampilan yang menghasilkan.
+
+Untuk pertama kalinya, internet bukan hanya tempat bermain game atau menonton video. Internet juga menjadi tempat belajar, bekerja, dan menemukan kesempatan.
+
+Belajar secara mandiri
+
+Aku mempelajari pemrograman dengan mencoba mengembangkan script open-source dari YouTube dan GitHub, termasuk proyek-proyek dari pengembang luar negeri.
+
+Aku membaca kode yang belum sepenuhnya kupahami, mencoba menjalankannya, memodifikasinya, lalu mencari penyebab ketika sesuatu tidak berjalan sebagaimana mestinya.
+
+Beberapa sumber belajar yang membantuku antara lain:
+
+- Dea Afrizal — salah satu sumber belajar pemrograman yang kutemukan di YouTube.
+- Web Programming UNPAS, Sandhika Galih — membantuku mempelajari berbagai materi pengembangan web.
+- Programmer Zaman Now, Eko Kurniawan Khannedy — menjadi salah satu sumber untuk memahami konsep dan praktik pemrograman.
+
+Selain materi daring, aku juga mendapat dukungan dari beberapa senior dan teman yang lebih dahulu mengenal dunia IT.
+
+Sekitar 2021–2022, aku mengenal Bang Azhari melalui YouTube dan lingkungan pengembangan bot. Sebelum membangun bot secara lebih mandiri, aku sering menggunakan script autoresponder yang dikembangkannya. Ia juga pernah membantuku dengan hosting dan domain untuk menunjang proyek.
+
+Pada periode 2022–2023, aku mulai mengenal orang-orang melalui grup IT, termasuk mereka yang awalnya datang sebagai klien, kemudian menjadi bagian dari perjalanan belajarku.
+
+Ada yang memberiku kesempatan mengerjakan proyek, ada yang membeli script buatanku, dan ada yang membantu ketika perangkat atau kebutuhan internet menjadi kendala.
+
+Pengalaman tersebut mengajarkanku bahwa belajar mandiri bukan berarti harus menjalani semuanya sendirian.
+
+Aku tetap harus membaca, mencoba, dan menyelesaikan masalah sendiri. Namun, kesempatan, arahan, dan dukungan dari orang lain juga bisa membantu seseorang melangkah lebih jauh.
+
+Aku tidak langsung memahami semuanya. Ada konsep yang harus kupelajari berulang kali, kode yang harus kuperiksa kembali, dan masalah yang membutuhkan banyak percobaan sebelum kutemukan solusinya.
+
+Dari proses itu, aku mulai memahami bahwa pemrograman bukan sekadar menjalankan script orang lain. Pemrograman berarti memahami masalah, menyusun solusi, menguji hasil, dan memperbaiki kesalahan.
+
+---
+
+03. Learning With Limited Resources
+
+Belajar menggunakan ponsel
+
+Periode 2021–2024 menjadi bagian penting dalam perjalanan belajarku.
+
+Pada masa itu, aku banyak belajar menggunakan ponsel dengan spesifikasi terbatas. Redmi 4A dengan RAM 2 GB menjadi perangkat yang membantuku mempelajari bot WhatsApp.
+
+Seiring waktu, aku melewati beberapa perangkat sederhana. Ada ponsel dengan RAM 1 GB yang pernah kugunakan, kemudian perangkat lain dengan RAM 2 GB yang juga akhirnya rusak.
+
+Setelah berusaha menabung, aku mendapatkan Samsung Galaxy J4+ dengan RAM 2 GB. Ponsel tersebut kemudian menjadi perangkat utama yang kuandalkan ketika mulai mengerjakan proyek freelance berupa website dan bot.
+
+Aku mengedit kode, mempelajari struktur program, menjalankan berbagai script, berkomunikasi dengan klien, dan mencoba menyelesaikan kebutuhan proyek langsung melalui ponsel.
+
+Banyak hal akan lebih mudah jika dikerjakan menggunakan komputer. Namun, pada saat itu, aku belum memiliki pilihan tersebut.
+
+Aku harus menyesuaikan cara kerja dengan perangkat yang tersedia, mencari aplikasi yang masih bisa digunakan, dan menemukan alternatif ketika sebuah alat tidak mendukung kebutuhan proyek.
+
+Aku tidak menganggap keterbatasan sebagai sesuatu yang harus selalu dirayakan. Ada banyak hal yang memang akan lebih mudah jika fasilitasnya memadai.
+
+Namun, dalam keadaan yang kuhadapi saat itu, belajar menggunakan apa yang tersedia adalah pilihan yang bisa kuambil.
+
+Menjaga konter milik Paman Komar
+
+Pada 2022, aku juga pernah bekerja menjaga konter milik Paman Komar sambil melanjutkan proses belajar pemrograman.
+
+Pekerjaan itu menjadi salah satu bagian dari keseharianku ketika kemampuan coding-ku masih berkembang. Aku membagi waktu antara menjaga konter, menjalani aktivitas sehari-hari, dan mempelajari hal-hal teknis melalui ponsel.
+
+Menjaga konter memberiku pengalaman bekerja di luar aktivitas pemrograman. Aku belajar menjalani tanggung jawab yang diberikan dan tetap berusaha melanjutkan proses belajar di tengah kesibukan.
+
+Kesempatan tersebut juga menjadi salah satu bentuk dukungan keluarga yang kusyukuri. Paman Komar tidak hanya hadir dalam perjalanan hidupku melalui bantuan pada masa-masa sulit, tetapi juga pernah memberiku kesempatan untuk bekerja.
+
+Pada masa itu, aku belum memiliki ruang kerja khusus atau perangkat yang memadai. Namun, proses belajar terus berjalan, sedikit demi sedikit, bersamaan dengan pekerjaan yang kulakukan.
+
+Samsung Galaxy J4+: perangkat untuk mulai bekerja
+
+Samsung Galaxy J4+ menjadi salah satu perangkat paling penting dalam perjalanan freelance-ku.
+
+Melaluinya, aku mulai mengerjakan website, mengembangkan bot WhatsApp, dan menangani proyek yang menjadi sumber penghasilan.
+
+Aku belum memiliki meja kerja yang layak, komputer, atau ruang khusus untuk bekerja. Banyak pekerjaan teknis harus kulakukan langsung melalui ponsel.
+
+Meski demikian, perangkat itu membantuku mengubah keterampilan yang kupelajari secara mandiri menjadi pekerjaan nyata.
+
+Aku mulai memahami tanggung jawab ketika menerima proyek: pekerjaan harus diselesaikan, komunikasi dengan klien perlu dijaga, dan masalah teknis harus dicari solusinya meskipun fasilitas yang tersedia terbatas.
+
+Ponsel tersebut kemudian hilang ketika aku sedang melalui salah satu periode tersulit dalam hidupku.
+
+Kehilangannya bukan sekadar kehilangan perangkat. Pada saat itu, ponsel tersebut merupakan alat utama yang kugunakan untuk belajar, bekerja, dan membangun penghasilan.
+
+---
+
+04. The Hardest Chapter
+
+Menghadapi kecemasan sejak usia muda
+
+Aku mulai mengalami gangguan kecemasan yang berat ketika berusia sekitar 15 tahun. Kondisi itu memengaruhi keseharianku, hubungan sosial, dan cara pandangku terhadap lingkungan sekitar.
+
+Sebelum mengalami kecemasan yang berat, aku cukup aktif mengikuti kegiatan keagamaan. Aku sering mengaji, shalat, dan mengumandangkan azan di masjid.
+
+Namun, ada suatu masa ketika rasa takut mulai mengubah kebiasaanku.
+
+Jarak rumah ke masjid cukup jauh. Jalan yang harus kulewati belum diaspal, tidak memiliki penerangan yang memadai, dan menjadi becek ketika hujan.
+
+Aku pernah mendengar cerita tentang seseorang yang mengaku melihat penampakan. Cerita itu membuatku semakin takut melewati jalan menuju masjid, terlebih ketika harus pulang sendirian dalam keadaan gelap.
+
+Pada awalnya, ibu sering mengantar atau menjemputku. Namun, lama-kelamaan aku tidak selalu bisa diantar. Ketika harus pulang sendiri, aku terkadang berlari karena ketakutan.
+
+Rasa takut yang awalnya berkaitan dengan perjalanan ke masjid perlahan memengaruhi kehidupanku secara lebih luas.
+
+Aku mulai menarik diri dari lingkungan sosial dan menghabiskan banyak waktu di rumah. Aku juga mengalami pengalaman sosial yang menyakitkan, termasuk perlakuan dari teman yang membuatku merasa direndahkan.
+
+Pada usia sekitar 15–17 tahun, kecemasanku terasa sangat berat. Sebagian orang tidak memahami kondisiku dan menganggapku aneh, bahkan tidak waras.
+
+Aku tidak selalu tahu bagaimana menjelaskan apa yang sedang kualami. Aku hanya tahu bahwa menjalani kehidupan sehari-hari terasa jauh lebih sulit dibandingkan sebelumnya.
+
+Aku juga mulai menjauh dari kebiasaan ibadah yang sebelumnya dekat dengan kehidupanku. Bukan karena aku ingin meninggalkan semuanya, melainkan karena rasa takut dan kecemasan saat itu terasa begitu sulit untuk kuhadapi.
+
+Bekerja dari bale bambu
+
+Pada periode 2022–2024, aku tetap berusaha mengerjakan proyek freelance di tengah kondisi tersebut.
+
+Aku tidak lagi tidur di kamar bersama keluarga. Aku tidur di belakang rumah, di sebuah bale atau bangku yang terbuat dari bambu. Terkadang, aku juga tidur di bagian tengah rumah kakek.
+
+Tempat itu sangat sederhana. Aku hanya menggunakan karpet sebagai alas tidur, bantal, dan colokan untuk mengisi daya ponsel.
+
+Di tempat yang sama, aku mengerjakan proyek freelance, berkomunikasi dengan klien, dan mempelajari kode. Tempat beristirahat itu sekaligus menjadi ruang kerjaku.
+
+Tidak ada meja kerja khusus atau fasilitas yang memadai. Aku mengerjakan pekerjaan dengan perangkat seadanya, berusaha memenuhi kebutuhan klien sambil menghadapi kondisi pribadi yang tidak selalu mudah.
+
+Pada masa itu, coding menjadi salah satu kegiatan yang paling banyak mengisi waktuku. Aku belajar, mengembangkan bot, menjual script, dan mencoba mendapatkan penghasilan dari keterampilan yang kumiliki.
+
+Dari pekerjaan tersebut, aku bisa membeli kuota sendiri, membeli perlengkapan untuk bekerja, dan menabung untuk mendapatkan ponsel yang lebih baik.
+
+Namun, aku juga menyadari bahwa ketika seseorang sedang mengalami kesulitan, terus bekerja saja tidak selalu cukup untuk menyelesaikan semua persoalan yang dihadapinya.
+
+Aku tetap membutuhkan waktu untuk memulihkan diri, memahami keadaan, dan perlahan belajar menjalani kehidupan dengan lebih baik.
+
+Kehilangan ponsel untuk pertama kalinya
+
+Di tengah proses tersebut, aku pernah kehilangan Samsung Galaxy J4+ setelah tertidur ketika sedang mengerjakan proyek.
+
+Ponsel itu merupakan alat utama untuk bekerja, belajar, dan berkomunikasi dengan klien. Aku belum memiliki perangkat cadangan yang memadai.
+
+Kehilangan tersebut membuatku harus memikirkan kembali bagaimana melanjutkan pekerjaan yang sedang berjalan.
+
+Setelah kejadian itu, ibuku membantuku mendapatkan ponsel pengganti menggunakan uang pinjaman dari Bank Mekar. Pinjaman tersebut sekitar Rp1.250.000 dengan cicilan sekitar Rp25.000 per minggu.
+
+Selama menunggu uang pinjaman cair, aku menggunakan Redmi 5A milik ayah selama kurang lebih dua minggu. Setelah uangnya tersedia, aku membeli Redmi 9A dengan RAM 2 GB dan penyimpanan 32 GB.
+
+Bantuan ibu sangat berarti bagiku. Aku tahu mendapatkan uang bukanlah hal yang mudah bagi keluarga kami. Aku juga tahu bahwa pinjaman tersebut menambah tanggungan yang harus dipikirkan dan dibayar.
+
+Aku tidak pernah menganggap bantuan itu sebagai sesuatu yang sepele.
+
+Aku kembali berusaha bekerja menggunakan ponsel pengganti. Namun, sekitar empat bulan kemudian, ponsel tersebut juga hilang ketika aku sedang tertidur.
+
+Itu menjadi kehilangan kedua dalam rangkaian kejadian tersebut.
+
+Ketika kehilangan perangkat berarti kehilangan banyak hal
+
+Kehilangan kedua membuatku merasa sangat terpukul.
+
+Perangkat yang hilang bukan hanya alat komunikasi. Di dalamnya terdapat akses yang berkaitan dengan pekerjaan, proyek yang sedang kukerjakan, akun yang kugunakan untuk berkomunikasi, serta berbagai hal yang belum sempat kucadangkan dengan baik.
+
+Sebagian akses ke akun dan kanal yang kugunakan untuk mengelola atau mempromosikan pekerjaan ikut hilang. Aku harus mengganti nomor telepon dan kembali membangun sarana komunikasi yang sebelumnya sudah kumiliki.
+
+Pekerjaan yang sedang berjalan menjadi lebih sulit dilanjutkan. Ada proyek dan data yang tidak sempat kucadangkan, sehingga pemulihannya tidak sesederhana membeli perangkat baru.
+
+Aku sempat merasa pasrah. Aku sudah berusaha mengumpulkan uang untuk membeli ponsel, lalu kehilangan perangkat tersebut ketika masih sangat membutuhkannya.
+
+Kehilangan itu mengajarkanku sesuatu yang baru kupahami setelah mengalaminya sendiri: perangkat kerja bukan satu-satunya aset yang harus dijaga. Data, akses akun, kontak klien, source code, dan cadangan proyek juga merupakan bagian penting dari pekerjaan.
+
+Namun, pelajaran itu datang melalui pengalaman yang tidak mudah.
+
+Aku tidak bisa mengubah apa yang sudah terjadi. Yang bisa kulakukan adalah mencari jalan agar pekerjaan dan proses belajarku tidak berhenti sepenuhnya.
+
+---
+
+05. Rebuilding
+
+Memulai kembali dengan perangkat seadanya
+
+Setelah kehilangan ponsel untuk kedua kalinya, aku sementara menggunakan ponsel milik ayah untuk berkomunikasi dengan teman, klien lama, dan sahabat dekatku, Bang Valen.
+
+Aku mengenal Bang Valen sekitar 2022–2023 melalui grup IT. Ia tinggal jauh dariku, di Sidoarjo, tetapi kami tetap berhubungan melalui internet.
+
+Pada masa itu, ia beberapa kali membantuku ketika aku tidak memiliki cukup kuota untuk berkomunikasi atau melanjutkan pekerjaan.
+
+Bang Valen pernah meminjamkan uang sekitar Rp500.000 agar aku bisa mendapatkan perangkat untuk kembali bekerja. Selama menunggu, aku kembali menggunakan ponsel ayah.
+
+Dengan uang tersebut, aku membeli Oppo F1s dengan RAM 4 GB dan Android 5.1. Aku juga menggunakan Redmi 5A sebagai perangkat tambahan untuk hotspot dan menjalankan kebutuhan teknis tertentu.
+
+Aku membagi pekerjaan dengan cara yang tidak biasa. Aku menggunakan Oppo untuk mengerjakan antarmuka website berbasis HTML dan Redmi 5A untuk menjalankan backend melalui Termux.
+
+Baterai Redmi 5A cepat habis, sedangkan Oppo memiliki keterbatasan kompatibilitas dengan aplikasi pemrograman yang kubutuhkan.
+
+Aku harus menyesuaikan diri dengan keadaan tersebut. Tidak semua hal berjalan lancar, tetapi setidaknya aku kembali memiliki cara untuk mencoba melanjutkan pekerjaan.
+
+Bantuan yang tidak hanya berbentuk uang
+
+Hubunganku dengan Bang Valen tidak hanya tentang pinjaman untuk membeli perangkat.
+
+Ketika aku belum mampu mengembalikan uang tersebut, ia sempat mengingatkanku selama beberapa bulan. Aku memahami bahwa itu merupakan tanggung jawabku, tetapi saat itu penghasilanku belum stabil dan aku kesulitan membayarnya.
+
+Pada akhirnya, Bang Valen mengatakan bahwa ia menganggap utang tersebut selesai jika aku kembali menjaga shalat.
+
+Aku mengingat momen itu sebagai salah satu titik penting dalam hidupku.
+
+Aku pernah aktif mengaji, shalat, dan mengumandangkan azan sebelum kecemasanku membuatku menarik diri dari kegiatan tersebut. Namun, seiring waktu, kebiasaan itu perlahan hilang.
+
+Pengingat dari Bang Valen membuatku kembali memikirkan hubunganku dengan Allah dan kebiasaan yang pernah kutinggalkan.
+
+Aku mulai berusaha shalat lagi, sedikit demi sedikit, hingga akhirnya memiliki keinginan untuk belajar agama dengan lebih serius.
+
+Bagi orang lain, bantuan mungkin terlihat sebagai uang atau perangkat. Bagiku, bantuan Bang Valen juga menjadi pengingat untuk kembali membangun bagian hidup yang sempat kutinggalkan.
+
+Sejak itu, aku menganggapnya sebagai sosok abang yang sangat berarti dalam hidupku. Bukan karena ia selalu memiliki banyak hal untuk diberikan, melainkan karena ia berusaha membantuku ketika aku sedang kesulitan dan mengingatkanku pada sesuatu yang menurutnya penting untuk kujaga.
+
+Aku tetap harus bertanggung jawab atas hidupku sendiri. Namun, aku tidak ingin melupakan orang yang pernah membantuku menemukan jalan ketika aku sedang kehilangan arah.
+
+Kembali mendapatkan proyek
+
+Setelah berusaha melanjutkan pekerjaan dengan perangkat seadanya, aku mulai mendapatkan proyek lagi.
+
+Pada suatu masa, aku sempat berhenti sejenak dari coding dan kembali terlalu banyak bermain game. Aku menyadari bahwa aku pernah beberapa kali terjebak dalam kebiasaan tersebut, terutama ketika keadaan sedang berat dan aku ingin mengalihkan pikiran.
+
+Namun, perlahan aku kembali mengarahkan perhatian pada pekerjaan.
+
+Sekitar November 2024, aku mendapatkan klien untuk proyek bot top-up. Aku kemudian mengerjakan proyek terkait API dan payment gateway, termasuk proyek ForestAPI.
+
+Untuk menunjang pekerjaan, aku membeli ponsel Infinix dengan RAM 2 GB dan penyimpanan 32 GB dari seorang teman lama. Perangkat itu membantuku kembali mengerjakan proyek dengan lebih terarah.
+
+Pada awal 2025, pekerjaan yang mulai masuk memberiku kesempatan untuk kembali mengumpulkan penghasilan.
+
+Dari hasil kerja itu, aku akhirnya mampu membeli televisi untuk ibu. Pada pertengahan tahun, aku juga bisa membeli kompor gas untuknya.
+
+Keduanya mungkin terlihat seperti barang rumah tangga biasa. Namun, bagiku, ada makna tersendiri di balik pembelian tersebut.
+
+Aku tumbuh dalam rumah yang memasak menggunakan kayu bakar dan pernah memiliki televisi yang kemudian rusak. Ketika akhirnya mampu membeli barang-barang itu dari hasil pekerjaan sendiri, aku merasa sedang melakukan sesuatu yang dulu belum bisa kulakukan.
+
+Aku belum mampu mengubah seluruh keadaan keluarga. Namun, setidaknya aku mulai bisa memberikan sesuatu yang bermanfaat bagi rumah.
+
+Perangkat kerja dan pelajaran tentang kepercayaan
+
+Setelah penghasilanku mulai membaik, aku juga berhasil mendapatkan laptop untuk bekerja. Aku membutuhkan perangkat yang lebih memadai agar bisa mengembangkan website dan menangani proyek dengan lebih leluasa.
+
+Namun, perjalanan mendapatkan dan mempertahankan perangkat kerja tidak selalu berjalan mulus.
+
+Pada suatu kesempatan, aku terlibat dalam kesepakatan pertukaran laptop dengan seorang teman. Kesepakatan awalnya bersifat sementara selama dua minggu, dengan kemungkinan melanjutkan pertukaran jika kedua pihak merasa cocok.
+
+Namun, setelah perangkat berpindah tangan, aku mendapat kabar bahwa laptop tersebut sudah dijual. Situasi kemudian berkembang menjadi perselisihan yang tidak mudah diselesaikan.
+
+Pada akhirnya, hubungan pertemanan tersebut berakhir.
+
+Pengalaman itu menjadi pelajaran pahit tentang kepercayaan, kesepakatan, dan pentingnya menjaga kejelasan ketika berurusan dengan barang bernilai tinggi.
+
+Aku tidak ingin menjadikan pengalaman tersebut sebagai alasan untuk terus menyimpan kemarahan. Namun, aku juga tidak ingin mengabaikan pelajarannya.
+
+Sejak itu, aku semakin memahami pentingnya batasan yang jelas, kesepakatan tertulis, dan keputusan yang dipertimbangkan dengan baik, terutama ketika menyangkut perangkat kerja dan hubungan dengan orang lain.
+
+Aku kembali memusatkan perhatian pada coding dan melanjutkan pekerjaan menggunakan perangkat yang masih kumiliki.
+
+Memulihkan diri secara perlahan
+
+Pada akhir 2024, aku mulai mencoba kembali keluar rumah dan berinteraksi dengan teman-teman lama.
+
+Aku tidak langsung merasa pulih sepenuhnya. Ada banyak hal yang masih harus kuhadapi, tetapi aku mulai belajar menyesuaikan diri dengan lingkungan dan membangun kembali keberanian untuk berinteraksi.
+
+Pada Desember 2024, aku merasakan perubahan yang cukup berarti. Aku mulai lebih mampu berkomunikasi, menata pola pikir, dan menghadapi beberapa situasi yang sebelumnya terasa sangat sulit.
+
+Sepanjang 2025 hingga 2026, kondisiku berangsur membaik. Aku mulai merasakan pemulihan yang lebih berarti dan perlahan dapat kembali menata kehidupan, kebiasaan, serta fokusku.
+
+Proses tersebut tidak berlangsung dalam satu malam dan tidak berarti semua kesulitan langsung hilang. Namun, aku bersyukur karena mulai memiliki ruang untuk melihat ke depan dengan lebih tenang.
+
+Aku belajar bahwa membangun kembali kehidupan tidak selalu dimulai dengan perubahan besar. Terkadang, langkah pertama hanya berupa mencoba keluar rumah, berbicara dengan orang lain, menyelesaikan satu pekerjaan, atau kembali melakukan kebiasaan baik yang pernah ditinggalkan.
+
+---
+
+06. Building Inovixa
+
+2025 — Membangun fondasi perusahaan
+
+Pada 22 Juli 2025, aku mendirikan PT Inovixa Technologies Solution, sebuah perseroan perorangan di bidang teknologi informasi.
+
+Keputusan tersebut berangkat dari keinginanku untuk membangun usaha yang lebih terstruktur, memiliki legalitas, dan dapat memberikan kejelasan kepada calon klien ketika bekerja sama.
+
+Sebelumnya, aku lebih banyak berfokus pada pekerjaan freelance, seperti membuat website, bot WhatsApp, dan script sesuai kebutuhan klien.
+
+Setelah mendirikan perusahaan, aku mulai memikirkan sesuatu yang lebih luas. Aku ingin membangun usaha yang tidak hanya bergantung pada satu proyek atau satu keterampilan, tetapi memiliki sistem kerja, layanan, dan produk yang dapat dikembangkan dalam jangka panjang.
+
+Aku juga mulai menyadari bahwa untuk menangani kebutuhan pengembangan aplikasi yang lebih luas, aku perlu membangun sistem kerja yang lebih baik dan melibatkan tim sesuai kebutuhan proyek.
+
+Layanan yang ingin kukembangkan tidak hanya terbatas pada website dan bot, tetapi juga mencakup aplikasi Android, iOS, dan desktop.
+
+Mendirikan perusahaan memberiku perspektif baru tentang dunia teknologi.
+
+Sebelumnya, fokus utamaku adalah mempelajari pemrograman dan menyelesaikan pekerjaan teknis. Setelah membangun perusahaan, tanggung jawabku berkembang ke berbagai bidang, mulai dari pengelolaan proyek dan komunikasi dengan klien hingga perencanaan produk, pengelolaan sumber daya, dan pengembangan bisnis.
+
+Aku menyadari bahwa kemampuan teknis saja tidak otomatis membuat sebuah perusahaan berhasil.
+
+Sebuah usaha juga membutuhkan perencanaan, kepercayaan, pengelolaan yang baik, konsistensi, dan kemampuan beradaptasi.
+
+PT Inovixa Technologies Solution menjadi langkahku untuk membangun usaha yang memiliki fondasi lebih kuat dan peluang berkembang dalam jangka panjang.
+
+Tentang nama dan tanggung jawab
+
+Dalam aktivitas profesional, aku menggunakan nama Dani Joest, sementara nama resmiku adalah Dani Ramdani. Aku memperkenalkan diriku sebagai Founder & Director PT Inovixa Technologies Solution karena itulah peran yang kujalani dalam merintis perusahaan ini.
+
+Aku memahami bahwa penyebutan jabatan dapat menimbulkan kesan yang berbeda bagi setiap orang. Karena itu, konteksnya perlu kujelaskan dengan sederhana.
+
+Aku menggunakan identitas tersebut untuk memperkenalkan pekerjaan dan tanggung jawab yang sedang kujalani, bukan untuk menyatakan bahwa perusahaan ini sudah besar atau seluruh targetku telah tercapai.
+
+Mendirikan badan usaha merupakan satu langkah, sedangkan membangun perusahaan yang benar-benar berkelanjutan adalah perjalanan yang jauh lebih panjang.
+
+Aku masih harus mencari klien, menyelesaikan proyek, mengembangkan produk, memperbaiki sistem kerja, dan belajar mengelola sumber daya.
+
+Aku ingin identitas profesional yang kubangun sejalan dengan pekerjaan nyata yang kulakukan, bukan hanya terlihat baik di profil atau media sosial.
+
+Bagiku, jabatan membawa tanggung jawab. Ia bukan alasan untuk merasa lebih tinggi dari orang lain.
+
+Sebuah awal, bukan garis akhir
+
+Mendirikan Inovixa bukan akhir dari perjalanan yang panjang. Justru, keputusan itu membuka babak baru dengan tantangan yang berbeda.
+
+Aku tidak lagi hanya bertanggung jawab terhadap pekerjaan yang kukerjakan sendiri. Aku juga harus memikirkan bagaimana perusahaan dapat bertahan, bagaimana produk bisa menemukan pengguna, dan bagaimana membangun kepercayaan dalam jangka panjang.
+
+Semua itu masih kupelajari.
+
+Aku ingin membangun Inovixa secara bertahap, dengan fondasi yang masuk akal dan kemampuan untuk berkembang sesuai keadaan.
+
+---
+
+07. A Different Chapter
+
+Juli 2025 – Maret 2026
+
+Di tengah proses merintis perusahaan, aku mengambil keputusan untuk menjalani kehidupan di Pondok Salafi Al-Mubarok, Kampung Tegal Pasir Ipis.
+
+Aku mulai mondok pada Juli 2025, setelah mendirikan PT Inovixa Technologies Solution. Aku tinggal di sana selama beberapa bulan, sambil tetap bekerja freelance, mengembangkan Inovixa, dan belajar mengaji.
+
+Keputusan untuk mondok merupakan keinginanku sendiri. Aku ingin memperbaiki kebiasaan, memperdalam pemahaman agama, dan membangun kehidupan yang lebih terarah.
+
+Di pondok, aku memiliki kamar sendiri yang bisa kugunakan untuk bekerja dan belajar. Aku harus membagi perhatian antara pekerjaan, kebutuhan hidup, serta aktivitas sehari-hari di lingkungan pondok.
+
+Sebagian besar kebutuhan makan dan sehari-hariku pada masa itu kupenuhi dari hasil kerja sendiri. Selama beberapa bulan, aku jarang meminta uang kepada orang tua. Ketika mampu, aku justru berusaha membantu mereka.
+
+Alhamdulillah, aku mulai merasakan bahwa hasil kerja sendiri tidak hanya dapat digunakan untuk memenuhi kebutuhan pribadi, tetapi juga untuk membantu keluarga.
+
+Hal tersebut memiliki arti tersendiri bagiku ketika mengingat bagaimana kehidupanku pada masa kecil, ketika membeli kuota internet saja membutuhkan perencanaan.
+
+Kembali ke masjid
+
+Salah satu perubahan yang paling kusyukuri selama menjalani perjalanan ini adalah kembalinya kebiasaanku beribadah.
+
+Sebelum mengalami kecemasan yang berat, aku sering mengaji, shalat, dan mengumandangkan azan di masjid. Namun, rasa takut membuatku perlahan menjauh dari kebiasaan tersebut.
+
+Setelah melalui masa yang sulit, aku mulai berusaha kembali shalat. Pengingat dari Bang Valen menjadi salah satu bagian yang mendorongku untuk memperbaiki hubungan dengan Allah.
+
+Keinginan untuk belajar agama kemudian membawaku ke pondok.
+
+Selama tinggal di sana, aku kembali membiasakan diri mengikuti kegiatan keagamaan. Aku juga belajar membaca Al-Qur'an dengan lebih baik.
+
+Dalam sekitar lima bulan, aku merasakan perkembangan yang berarti dalam membaca Al-Qur'an dan memperbaiki tajwid. Ada banyak hal yang sebelumnya terasa terlupakan atau belum kupahami dengan baik, lalu perlahan kupelajari kembali.
+
+Aku tidak menganggap proses tersebut sebagai sesuatu yang membuatku lebih baik daripada orang lain. Bagiku, ini adalah bagian dari perjalanan pribadi untuk memperbaiki diri dan menjaga kebiasaan yang ingin terus kubawa setelah keluar dari pondok.
+
+Alhamdulillah, shalat yang dahulu sempat kutinggalkan karena kecemasan kini menjadi bagian penting dalam keseharianku.
+
+Aku masih harus menjaga konsistensi dan terus belajar, tetapi perubahan ini menjadi salah satu hal yang paling kusyukuri.
+
+Orang-orang yang membantuku
+
+Dalam perjalanan hidup, aku belajar bahwa usaha pribadi sangat penting, tetapi ada kalanya bantuan orang lain menjadi bagian yang tidak terpisahkan dari proses untuk melanjutkan hidup.
+
+Ibuku telah membantuku sejak awal, termasuk ketika aku ingin memiliki ponsel pertama dan ketika perangkat kerjaku hilang. Ayah menyediakan uang untuk ponsel pertamaku dan pernah meminjamkan ponsel ketika aku kehilangan perangkat untuk kedua kalinya.
+
+Aku tahu dukungan mereka datang dari keadaan keluarga yang juga memiliki keterbatasan. Karena itu, setiap bantuan memiliki arti tersendiri bagiku.
+
+Aku juga bersyukur pernah dipertemukan dengan orang-orang dari lingkungan teknologi yang memberikan kesempatan dan dukungan.
+
+Bang Azhari pernah membantuku dengan hosting dan domain ketika aku masih belajar mengembangkan bot. Pada masa berikutnya, Pak Ridwan, yang juga dikenal sebagai Rescenic, membantu melalui pembelian script dan dukungan hosting. Ia pernah membeli karyaku meskipun tidak selalu membutuhkannya, sebagai bentuk dukungan kepada sesama programmer.
+
+Aku juga mengenal Dian, yang beberapa kali membantu ketika aku kesulitan membeli kuota atau membutuhkan bantuan teknis. Terkadang, bantuannya bukan berupa uang, melainkan waktu, tenaga, dan usaha untuk membantuku melewati kesulitan sederhana yang saat itu terasa besar.
+
+Ada pula klien yang memberiku kesempatan mengerjakan proyek ketika kemampuanku masih berkembang. Sebagian dari mereka kemudian menjadi kenalan yang ikut mewarnai perjalanan belajarku.
+
+Paman Komar memiliki peran tersendiri dalam perjalananku. Selain pernah memberiku kesempatan bekerja menjaga konter miliknya, ia juga membantuku menyiapkan kebutuhan awal ketika masuk pondok, termasuk kebutuhan untuk diberikan kepada guru.
+
+Setelah aku keluar dari pondok dan laptopku mengalami kerusakan, Paman Komar kembali membantuku melalui pinjaman untuk membeli laptop serta menyediakan tempat tinggal sementara.
+
+Bang Valen juga beberapa kali membantuku ketika aku tidak memiliki cukup uang untuk membeli makanan atau kuota. Ia tidak hanya membantuku mendapatkan perangkat untuk bekerja, tetapi juga mengingatkanku untuk menjaga shalat dan berusaha memperbaiki diri.
+
+Aku tidak ingin menceritakan kebaikan mereka seolah-olah semua masalahku selesai karena bantuan orang lain. Aku tetap harus bekerja, belajar, dan bertanggung jawab atas keputusan yang kuambil.
+
+Namun, aku juga tidak ingin melupakan bahwa pada masa ketika kemampuanku masih terbatas, ada orang-orang yang bersedia memberiku kesempatan dan membantu ketika aku kesulitan.
+
+Pengalaman itu mengajarkanku untuk menghargai kepercayaan, menjaga hubungan baik, dan meneruskan kebaikan ketika aku memiliki kesempatan.
+
+Keluar dari pondok dan memulai babak baru
+
+Sekitar Maret 2026, menjelang Lebaran, aku memutuskan untuk mengakhiri masa mondok dan kembali memusatkan perhatian pada pekerjaan.
+
+Sebelumnya, aku sempat merencanakan untuk tinggal di kos agar bisa bekerja lebih dekat dengan aktivitas yang ingin kujalani. Namun, rencana tersebut tidak berjalan sesuai harapan.
+
+Paman kemudian memberiku kesempatan untuk tinggal di sebuah kamar tanpa biaya sewa, sekaligus membantu menjaga barang-barang proyeknya.
+
+Kesempatan itu memberiku tempat untuk tinggal sekaligus melanjutkan pekerjaan. Pada masa tersebut, aku juga mendapat pinjaman yang kugunakan untuk membeli laptop agar bisa kembali bekerja dan mengembangkan kemampuanku.
+
+Aku mulai mencicil pengembalian pinjaman itu dari penghasilan yang kudapatkan. Sebagian kewajiban tersebut masih harus kuselesaikan secara bertahap.
+
+Aku tidak ingin menggambarkan masa itu seolah-olah semua persoalan telah selesai. Aku masih memiliki tanggung jawab keuangan, proyek yang harus dituntaskan, dan perusahaan yang perlu terus dikembangkan.
+
+Namun, aku bersyukur karena kembali memiliki perangkat untuk bekerja dan kesempatan untuk menata langkah berikutnya.
+
+Periode mondok menjadi bagian penting dalam kehidupanku. Aku belajar bahwa perjalanan tidak hanya terdiri dari satu tujuan. Ada pekerjaan yang harus diselesaikan, kemampuan yang ingin dikembangkan, kehidupan pribadi yang perlu dijaga, dan nilai-nilai yang ingin terus kupegang.
+
+Aku masih belajar menyeimbangkan semuanya.
+
+---
+
+08. Beyond Services
+
+2026 — Mengembangkan produk teknologi
+
+Setelah keluar dari pondok, aku kembali memusatkan perhatian pada pengembangan PT Inovixa Technologies Solution.
+
+Aku melanjutkan promosi, mencari klien, mengembangkan usaha, dan membangun produk digital.
+
+Aku tidak ingin hanya mengandalkan jasa pengembangan perangkat lunak. Aku juga ingin mengembangkan produk yang memiliki identitas, fungsi, dan peluang untuk tumbuh secara mandiri.
+
+Beberapa produk yang menjadi bagian dari perjalanan tersebut adalah:
+
+Flowix
+
+Flowix dikembangkan untuk kebutuhan infrastruktur transaksi digital, termasuk layanan PPOB dan payment gateway, serta lini layanan akun premium dan media sosial.
+
+UniShop
+
+UniShop berfokus pada web top-up, penjualan akun premium, dan jasa joki.
+
+Vyrlo
+
+Vyrlo dikembangkan dengan fokus pada layanan akun premium dan media sosial.
+
+WuttyAI
+
+WuttyAI merupakan produk chatbot berbasis kecerdasan buatan atau artificial intelligence (AI), yang dikembangkan untuk membantu pengguna berinteraksi dan mengolah informasi.
+
+Produk-produk tersebut merupakan bagian dari upayaku membangun lini usaha yang lebih beragam. Masing-masing masih membutuhkan pengembangan, pemeliharaan, evaluasi, dan upaya untuk menemukan pengguna yang tepat.
+
+Belajar membangun, bukan hanya membuat
+
+Membangun produk sendiri menghadirkan tantangan yang berbeda dibandingkan mengerjakan proyek berdasarkan permintaan klien.
+
+Sebuah produk tidak cukup hanya dibuat dan diluncurkan. Produk tersebut juga membutuhkan pemeliharaan, pengembangan fitur, pemahaman terhadap kebutuhan pengguna, promosi, serta evaluasi berkelanjutan.
+
+Aku mulai memahami bahwa memiliki produk sendiri bukan jaminan bahwa semuanya akan berhasil. Setiap produk membutuhkan proses, perhatian, dan keputusan yang tepat agar dapat berkembang.
+
+Ada masa ketika aku menghabiskan banyak waktu mengerjakan proyek atau membangun produk, tetapi hasilnya belum sesuai harapan. Aku pernah merasa kecewa ketika pekerjaan yang telah kukerjakan selama berminggu-minggu belum mendapatkan pengguna atau klien seperti yang diharapkan.
+
+Namun, aku tidak ingin menjadikan kekecewaan sebagai alasan untuk berhenti mengevaluasi apa yang bisa diperbaiki.
+
+Aku masih mempelajari bagaimana membangun layanan yang benar-benar bermanfaat, mendapatkan kepercayaan pengguna, dan mengembangkan usaha yang berkelanjutan.
+
+Semua itu masih menjadi bagian dari perjalanan yang sedang kujalani bersama Inovixa.
+
+---
+
+09. The Reality of Building
+
+Masih merintis, masih belajar
+
+Sampai hari ini, aku masih merintis PT Inovixa Technologies Solution dan berusaha mengembangkan usaha yang telah kubangun.
+
+Perjalanan bisnis tidak selalu berjalan sesuai rencana. Ada masa ketika proyek masuk dan pekerjaan cukup padat. Ada pula masa ketika tidak ada klien baru, pemasukan menurun, dan kebutuhan sehari-hari harus kembali dihitung dengan hati-hati.
+
+Ketika pekerjaan sedang sepi, kebutuhan sederhana seperti kuota internet untuk bekerja pun terkadang menjadi tantangan. Ada saat ketika aku harus meminjam kuota atau mencari cara agar tetap bisa menyelesaikan pekerjaan yang sedang berjalan.
+
+Keadaan tersebut mengingatkanku pada masa ketika aku masih harus menabung beberapa hari untuk membeli paket internet.
+
+Perbedaannya, sekarang aku memiliki tanggung jawab yang lebih besar. Aku bukan hanya ingin memenuhi kebutuhan pribadi, tetapi juga ingin menjaga agar proyek klien tetap berjalan dan perusahaan yang kurintis memiliki kesempatan untuk berkembang.
+
+Membangun produk membutuhkan waktu, tenaga, dan sumber daya, sementara hasilnya tidak selalu datang secepat yang diharapkan.
+
+Ada proyek yang membutuhkan proses panjang, produk yang masih harus dikembangkan, dan keputusan yang perlu dievaluasi kembali.
+
+Aku belajar bahwa membangun usaha bukan hanya tentang memiliki ide atau kemampuan teknis. Produk harus menemukan pengguna, memberikan manfaat, dan berkembang menjadi usaha yang berkelanjutan.
+
+Kehidupan yang masih sederhana
+
+Meski telah mendirikan perusahaan, kehidupan sehari-hariku masih jauh dari gambaran kesuksesan yang mungkin dibayangkan sebagian orang ketika mendengar jabatan founder atau direktur.
+
+Aku masih tinggal di kampung, jauh dari pusat keramaian. Akses terhadap beberapa kebutuhan sehari-hari tidak selalu mudah. Untuk menarik uang tunai, misalnya, aku terkadang harus menempuh jarak sekitar satu hingga satu setengah kilometer, sementara aku belum memiliki kendaraan sendiri.
+
+Pilihan makanan di sekitarku juga sederhana. Aku masih menyesuaikan kebutuhan sehari-hari dengan apa yang tersedia dan sesuai kemampuan.
+
+Ketika pemasukan belum stabil, aku harus mengatur pengeluaran dengan lebih hati-hati agar kebutuhan dasar dan pekerjaan tetap bisa berjalan.
+
+Aku tidak menceritakan ini untuk merendahkan keadaan tempat tinggalku atau menganggap kehidupan sederhana sebagai sesuatu yang memalukan. Aku hanya ingin menunjukkan bahwa mendirikan perusahaan tidak otomatis mengubah seluruh keadaan hidup seseorang dalam waktu singkat.
+
+Ada jarak antara mendirikan badan usaha dan membangun kehidupan yang benar-benar stabil. Aku masih berada dalam proses menempuh jarak tersebut.
+
+Tentang harapan untuk tinggal di kota
+
+Sejak kecil, aku memiliki ketertarikan tersendiri terhadap suasana kota.
+
+Aku tidak sepenuhnya tahu alasannya, tetapi melihat lampu-lampu kota pada malam hari selalu memberikan perasaan menyenangkan bagiku. Ada sesuatu dari suasana tersebut yang membuatku ingin melihat lebih banyak hal di luar lingkungan tempat aku tumbuh.
+
+Aku juga ingat ketika melihat keyboard musik di televisi. Bahkan saat tidak memiliki alat yang bisa digunakan, aku pernah mencoba menirukan gerakannya pada keyboard yang sudah tidak berfungsi.
+
+Lucunya, ketika dewasa, aku justru menghabiskan banyak waktu bekerja di depan keyboard komputer untuk menulis kode. Mungkin bukan keyboard yang dulu kubayangkan, tetapi ada bagian kecil dari kenangan itu yang terasa menarik ketika kuingat kembali.
+
+Suatu hari, aku ingin memiliki kesempatan untuk tinggal dan bekerja di kota, dengan akses yang lebih baik terhadap kebutuhan sehari-hari, lingkungan profesional, dan berbagai peluang yang belum banyak kutemui di kampung.
+
+Namun, aku tahu keinginan itu tidak cukup hanya dengan membayangkannya.
+
+Aku harus membangun kemampuan, menyelesaikan tanggung jawab, memperbaiki kondisi keuangan, dan menyiapkan langkah yang realistis agar suatu hari bisa mewujudkannya.
+
+Untuk sekarang, aku masih berada di tempat yang sama, berusaha menyelesaikan pekerjaan yang ada dan membangun jalan menuju kehidupan yang kuharapkan.
+
+Menjaga prinsip di tengah kesulitan
+
+Aku pernah berada dalam keadaan yang tidak mudah secara ekonomi dan emosional. Namun, aku ingin tetap menjaga batasan tentang hal-hal yang tidak ingin kulakukan demi mendapatkan uang atau melarikan diri dari masalah.
+
+Aku berusaha menjauhi perjudian online, penipuan, pencurian, dan tindakan lain yang dapat merugikan diri sendiri maupun orang lain.
+
+Aku tidak menganggap diriku sempurna. Aku pernah melakukan kesalahan, membuat keputusan yang kurang tepat, dan memiliki kebiasaan yang harus diperbaiki.
+
+Namun, aku ingin terus membangun kehidupan melalui pekerjaan yang bisa dipertanggungjawabkan, keterampilan yang kupelajari, dan usaha yang dapat memberikan manfaat.
+
+Bagiku, bertahan bukan hanya soal terus mendapatkan uang. Bertahan juga berarti menjaga arah hidup agar kesulitan tidak membuatku mengambil jalan yang bertentangan dengan nilai-nilai yang ingin kupegang.
+
+---
+
+10. What This Journey Has Taught Me
+
+Titik awal bukan keseluruhan cerita
+
+Aku tidak memulai dengan pendidikan formal, fasilitas, atau sumber daya yang ideal.
+
+Aku tumbuh di rumah yang sederhana, tidak mampu melanjutkan pendidikan ke SMP, dan pernah bergantung pada orang tua untuk kebutuhan internet yang paling dasar.
+
+Namun, aku menemukan jalan untuk mempelajari sesuatu yang sebelumnya tidak kukenal.
+
+Pengalaman itu mengajarkanku bahwa titik awal merupakan bagian dari kehidupan, bukan satu-satunya penentu ke mana seseorang bisa melangkah.
+
+Menghargai perjuangan orang tua
+
+Ketika masih kecil, aku belum memahami sepenuhnya bagaimana orang tua memenuhi kebutuhan keluarga.
+
+Aku baru perlahan mengerti setelah melihat kembali keadaan yang kami hadapi dan mengingat usaha yang dilakukan ayah serta ibu.
+
+Ayah bekerja untuk memenuhi kebutuhan keluarga. Ibu juga berusaha mencari pekerjaan ketika keadaan mendesak, meskipun harus menghadapi berbagai kesulitan.
+
+Aku tidak bisa mengubah masa lalu atau mengganti seluruh pengorbanan mereka. Namun, aku ingin menggunakan kesempatan yang kumiliki sekarang untuk membangun kehidupan yang lebih baik dan, ketika mampu, membantu keluarga.
+
+Aku juga ingin lebih memahami bahwa dukungan orang tua tidak selalu hadir dalam bentuk yang besar. Terkadang, dukungan itu berupa uang untuk membeli ponsel pertama, bantuan mendapatkan perangkat pengganti, atau kesempatan untuk tetap belajar ketika keadaan belum memungkinkan.
+
+Hal-hal sederhana tersebut menjadi bagian dari perjalanan yang membawaku sampai ke titik ini.
+
+Kemandirian tumbuh secara bertahap
+
+Dulu, aku masih bergantung pada orang tua untuk membeli kuota internet. Aku bahkan harus menabung selama beberapa hari agar bisa kembali terhubung ke internet.
+
+Ketika mulai mendapatkan penghasilan dari coding, aku perlahan mampu membiayai kebutuhan internet sendiri dan sesekali membantu keluarga.
+
+Perubahan itu mengajarkanku bahwa kemandirian tidak selalu datang sekaligus. Terkadang, ia tumbuh dari hal-hal kecil yang dilakukan secara konsisten.
+
+Aku belum sepenuhnya mandiri dalam semua aspek kehidupan. Namun, aku bisa melihat bahwa ada bagian-bagian yang perlahan berubah melalui proses belajar dan bekerja.
+
+Rasa ingin tahu dapat membuka jalan baru
+
+Aku mengenal coding bukan karena sejak kecil telah merencanakan karier sebagai programmer. Semuanya berawal dari rasa penasaran terhadap sebuah bot WhatsApp dan keinginan memahami bagaimana program tersebut bekerja.
+
+Dari rasa ingin tahu itu, aku menemukan keterampilan yang kemudian menjadi fondasi pekerjaanku.
+
+Aku belajar bahwa kesempatan terkadang muncul dari hal yang awalnya tidak kita anggap penting. Yang membuat perbedaan adalah bagaimana kita menindaklanjuti rasa penasaran tersebut dan bersedia mempelajari hal-hal yang belum kita pahami.
+
+Keterbatasan mendorongku mencari alternatif
+
+Aku belajar menggunakan ponsel sederhana, kehilangan perangkat kerja, dan beberapa kali harus menyesuaikan cara kerja dengan teknologi yang tersedia.
+
+Tidak semua keterbatasan bisa diatasi dengan cepat. Ada keadaan yang memang membuat pekerjaan lebih sulit dan ada kehilangan yang tidak bisa langsung diganti.
+
+Namun, aku belajar mencari alternatif, memanfaatkan kesempatan, dan melanjutkan apa yang masih bisa dikerjakan.
+
+Aku juga belajar bahwa bekerja keras perlu diimbangi dengan menjaga aset kerja. Source code, akun, kontak klien, dan data proyek perlu dicadangkan dengan baik agar kehilangan perangkat tidak berarti kehilangan semuanya.
+
+Menghargai bantuan dan meneruskan kebaikan
+
+Aku pernah menerima bantuan dari orang tua, Bang Valen, Paman Komar, serta beberapa orang yang kutemui melalui lingkungan teknologi.
+
+Ada yang membantu menyediakan perangkat, memberi kesempatan mengerjakan proyek, mendukung kebutuhan hosting, atau membantu ketika aku kesulitan membeli kuota.
+
+Ada pula yang mengingatkanku untuk menjaga shalat ketika aku mulai menjauh dari kebiasaan beribadah.
+
+Aku tidak ingin melupakan kebaikan tersebut.
+
+Pengalaman itu mengingatkanku bahwa usaha pribadi dan bantuan orang lain tidak harus dipertentangkan. Aku tetap perlu berusaha, tetapi aku juga perlu menghargai kepercayaan dan kebaikan yang kuterima.
+
+Ketika suatu hari aku memiliki kesempatan untuk membantu orang lain, aku ingin meneruskan kebaikan tersebut dengan cara yang bisa kulakukan.
+
+Memulihkan diri membutuhkan waktu
+
+Aku pernah mengalami kecemasan yang membuatku menarik diri dari lingkungan sosial dan meninggalkan beberapa kebiasaan yang sebelumnya penting dalam hidupku.
+
+Proses untuk kembali menjalani kehidupan dengan lebih tenang tidak berlangsung seketika.
+
+Aku mulai belajar berinteraksi kembali, memperbaiki kebiasaan, dan membangun rutinitas secara bertahap. Aku juga berusaha kembali menjaga shalat dan memperdalam pemahaman agama.
+
+Pengalaman itu mengajarkanku bahwa perkembangan seseorang tidak hanya bisa diukur dari pekerjaan atau penghasilan.
+
+Ada proses pribadi yang tidak selalu terlihat dari luar, tetapi tetap penting untuk dijalani.
+
+Aku masih belajar menjaga keseimbangan antara pekerjaan, kesehatan diri, kehidupan sosial, dan ibadah.
+
+Membangun perusahaan membutuhkan lebih dari kemampuan teknis
+
+Menjadi programmer dan membangun perusahaan merupakan dua perjalanan yang saling berkaitan, tetapi tidak sama.
+
+Kemampuan teknis menjadi fondasi penting. Namun, perusahaan juga membutuhkan tanggung jawab, komunikasi, pengelolaan sumber daya, kepercayaan, dan kemampuan mengambil keputusan.
+
+Aku masih belajar menerapkan semua itu dalam membangun Inovixa.
+
+Aku tidak ingin hanya memiliki nama perusahaan atau jabatan yang terlihat baik. Aku ingin membangun usaha yang benar-benar memiliki layanan bermanfaat, pelanggan yang percaya, dan sistem kerja yang dapat berkembang.
+
+Perjalanan tidak selalu berjalan lurus
+
+Ada perangkat yang hilang, proyek yang terhambat, hubungan yang berakhir, keadaan yang berubah, dan kesempatan yang harus dibangun kembali.
+
+Ada juga keputusan yang ternyata tidak berjalan seperti rencana.
+
+Namun, pengalaman tersebut menjadi bagian dari perjalanan yang membentuk pemahamanku tentang pekerjaan, tanggung jawab, dan kehidupan.
+
+Aku tidak bisa mengubah seluruh hal yang telah terjadi, tetapi aku bisa terus belajar darinya dan menentukan bagaimana aku ingin melangkah selanjutnya.
+
+---
+
+11. Looking Forward
+
+The journey continues
+
+Aku belum tahu persis bagaimana perjalanan ini akan berkembang dalam beberapa tahun ke depan.
+
+Aku berharap dapat mengembangkan PT Inovixa Technologies Solution menjadi perusahaan teknologi yang lebih kuat, membangun produk yang bermanfaat, membentuk tim yang baik, dan menciptakan usaha yang dapat bertahan dalam jangka panjang.
+
+Aku ingin menyelesaikan proyek-proyek yang sedang kukerjakan, memperbaiki sistem kerja, mengembangkan produk yang sudah dimulai, dan membangun hubungan yang baik dengan klien.
+
+Aku juga ingin meningkatkan kemampuan teknis, kedisiplinan, cara berpikir, pengelolaan keuangan, dan kemampuan mengambil keputusan.
+
+Di luar pekerjaan, aku ingin membangun kehidupan yang lebih stabil. Aku berharap suatu hari bisa tinggal di lingkungan dengan akses yang lebih baik terhadap kebutuhan sehari-hari dan kesempatan kerja, serta memiliki ruang yang memadai untuk bekerja dan mengembangkan diri.
+
+Aku ingin membantu orang tua dengan lebih baik, bukan hanya sesekali ketika ada penghasilan, tetapi dengan kemampuan yang lebih konsisten ketika keadaan memungkinkan.
+
+Aku juga ingin terus menjaga shalat, belajar agama, dan memperbaiki diri tanpa harus menunggu sampai seluruh urusan dunia terasa selesai.
+
+Aku tahu masih banyak hal yang belum kumiliki dan belum kucapai. Namun, aku juga tahu bahwa perjalanan ini telah membawaku melewati banyak perubahan dibandingkan titik awalnya.
+
+Dulu, aku menangis karena ingin memiliki ponsel seperti orang lain. Setelah memilikinya, aku menggunakannya untuk bermain game dan menonton YouTube. Kemudian, ponsel itu menjadi alat untuk belajar coding, mendapatkan penghasilan, dan membangun keterampilan.
+
+Aku pernah menabung hanya untuk membeli kuota internet. Kemudian, aku mulai bisa membiayai kuota sendiri, membeli perangkat kerja, membantu kebutuhan rumah, dan mendirikan perusahaan.
+
+Aku pernah kehilangan perangkat dan akses yang kubutuhkan untuk bekerja. Aku pernah merasa sangat takut untuk berinteraksi dengan orang lain. Aku juga pernah meninggalkan kebiasaan ibadah yang sebelumnya dekat dengan kehidupanku.
+
+Perjalananku belum sempurna. Namun, aku masih memiliki kesempatan untuk memperbaiki banyak hal.
+
+Aku tidak ingin berpura-pura bahwa semuanya sudah selesai. Aku ingin terus belajar, bekerja, memperbaiki apa yang masih kurang, dan menjalani proses ini dengan lebih baik.
+
+Halaman ini akan menjadi arsip perjalanan hidupku. Di sini, aku ingin mencatat perkembangan berikutnya: proyek baru, pelajaran yang berharga, perubahan arah, kegagalan, pencapaian, dan berbagai peristiwa yang menjadi bagian dari hidupku.
+
+Mungkin beberapa tahun dari sekarang, aku akan membaca kembali tulisan ini dengan perspektif yang berbeda.
+
+Mungkin ada keputusan yang ternyata tepat. Mungkin ada jalan yang harus kuubah. Mungkin ada banyak hal yang hari ini terasa sulit, tetapi kelak menjadi bagian dari pengalaman yang membentuk diriku.
+
+Mungkin suatu hari aku bisa melihat lampu-lampu kota dari tempat yang selama ini hanya kubayangkan. Mungkin Inovixa akan tumbuh menjadi perusahaan dengan tim dan produk yang lebih matang. Mungkin aku bisa memberikan kehidupan yang lebih baik kepada orang tua dan meneruskan kebaikan orang-orang yang pernah membantuku.
+
+Aku tidak tahu kapan semua itu akan terjadi. Aku juga tidak ingin menjanjikan sesuatu yang belum bisa kupastikan.
+
+Yang bisa kulakukan sekarang adalah menyelesaikan pekerjaan yang ada, menjaga kepercayaan, memperbaiki kemampuan, mengelola apa yang kumiliki dengan lebih baik, dan terus berusaha.
+
+Aku ingin menjalani semua itu dengan tetap mengingat Allah, menghargai orang-orang yang telah membantuku, dan tidak melupakan dari mana perjalanan ini dimulai.
+
+Aku adalah Dani Joest, atau Dani Ramdani.
+
+Aku tumbuh dengan keterbatasan, menyaksikan orang tuaku berjuang untuk keluarga, belajar menggunakan perangkat seadanya, bekerja dari tempat yang sederhana, menghadapi kecemasan, kehilangan alat yang kubutuhkan untuk mencari penghasilan, menerima bantuan dari orang-orang yang peduli, dan perlahan membangun sesuatu melalui kemampuan yang kupelajari sendiri.
+
+Hari ini, aku masih merintis.
+
+Aku masih belajar. Aku masih memiliki tanggung jawab yang harus diselesaikan, kemampuan yang perlu dikembangkan, dan banyak hal yang harus diperbaiki.
+
+Aku belum sampai di tempat yang kuinginkan. Namun, aku ingin terus berjalan menuju ke sana.
+
+This is not the end of my story. It is only another chapter in the journey.
+
+---
+
+Documenting the past. Building the present. Working toward the future.
+
+Dani Joest (Dani Ramdani)
+
+Founder & Director · PT Inovixa Technologies Solution
+
+Personal Archive · Established 2026
